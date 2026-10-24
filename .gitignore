@@ -1,0 +1,20 @@
+out/
+cache/
+broadcast/
+lib/
+node_modules/
+web/dist/
+web/.env.local
+.deployer.env
+web/.stress-wallets.json
+web/.stress-wallets.bak.json
+
+# secrets: never commit any of these
+.env
+.env.*
+*.env
+.deployer.env
+.stress-wallets*.json
+web/.stress-wallets*.json
+web/.vercel/
+dev.log

@@ -1,0 +1,10 @@
+{
+  "name": "Turnike",
+  "short_name": "Turnike",
+  "description": "One wallet, every city's turnstile. Pay per trip on Monad.",
+  "start_url": "/#/rider",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#836ef9",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
